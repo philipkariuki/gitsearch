@@ -60,6 +60,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Support and contact details
 To support me, you can contact me @<a href="https://www.gmail.com">philippokar@hotmail.co.uk</a>
 ## Link to project
-https://philipkariuki.github.io/quotes-angular/
-## [License](https://github.com/philipkariuki/pigdice/blob/master/LICENSE)
+https://philipkariuki.github.io/gitsearch/
+## [License](https://github.com/philipkariuki/gitsearch/blob/master/LICENSE)
 MIT © 2019 [philipkariuki](https://github.com/philipkariuki)
