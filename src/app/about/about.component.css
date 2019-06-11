@@ -1,0 +1,19 @@
+.about {
+  margin-top: 140px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.row {
+  margin-top: 45px;
+}
+
+ol {
+  font-size: 19px;
+}
+
+ol a {
+  color: brown;
+}
